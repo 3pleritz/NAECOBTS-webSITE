@@ -6,15 +6,16 @@
 /*header/navbar*/
 #header{ 
      width: 100%;
-	 height: 80px; 
+	 height: 65px; 
 	 background: #fff;
-	 line-height: 40px;
+	 
 }
 
 #navbar {
 	width: 1000px;
 	height: 60px;
 	float: right;
+	line-height: 30px;
 }
 
 #navbar>li {
@@ -55,7 +56,7 @@ li>a:hover, li>a:focus {
 	width: 5rem;
 }
 
-#registerx:hover {
+#outset:hover {
 	background-color: var(--right-button-hover-color);
 	border-color: var(--right-button-hover-color);
 }
@@ -74,9 +75,9 @@ li>a:hover, li>a:focus {
 	width: 6rem;
 }
 
-#registerj:hover{
-	background-color: var(--right-button-hover-color);
-	border-color: var(--right-button-hover-color);
+#outset2:hover{
+	background-color:#8f064d ;
+	border-color: #fff;
 }
 /*logo*/
 #logo44{
